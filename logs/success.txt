@@ -1,0 +1,8 @@
+[2026-03-17 16:15:15] File: testing02.pdf | Password: good | Time: 21.46s
+[2026-03-17 16:15:51] File: Aadhaar test.pdf | Password: AABB2004 | Time: 0.03s
+[2026-03-17 16:16:20] File: Aadhaar test.pdf | Password: AABB2004 | Time: 0.91s
+[2026-03-17 16:17:16] File: Brute force check number.pdf | Password: 1234 | Time: 0.43s
+[2026-03-17 16:17:42] File: Brute force check alphabet.pdf | Password: aabb | Time: 0.04s
+[2026-03-17 16:19:36] File: testing02.pdf | Password: good | Time: 21.27s
+[2026-03-17 16:53:21] File: testing02.pdf | Password: good | Time: Done
+[2026-03-17 16:56:57] File: PAN Card pdf check.pdf | Password: 15081998 | Time: Done
